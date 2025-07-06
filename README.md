@@ -7,7 +7,7 @@
 ## 🏴 **Takım Logosu**
 
 
-## 👥 Takım Elemanları
+## 👥 Takım Üyeleri
 
 <table>
   <tr>
@@ -17,7 +17,7 @@
     <th>Socials</th>
   </tr>
   <tr>
-    <td><img src="SprintAssets/people/kutay.jpg" width="70" /></td>
+    <td><img src="SprintAssets/people/kutay.jpg" width="100" /></td>
     <td>Kutay Perk</td>
     <td>Product Owner</td>
     <td>
@@ -26,7 +26,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="SprintAssets/people/melike.jpeg" width="70" /></td>
+    <td><img src="SprintAssets/people/melike.jpeg" width="100" /></td>
     <td>Melike Şahin</td>
     <td>Scrum Master</td>
     <td>
@@ -35,7 +35,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="SprintAssets/people/mirza.jpg" width="70" /></td>
+    <td><img src="SprintAssets/people/mirza.jpg" width="100" /></td>
     <td>Mirza Özmen</td>
     <td>Game Developer</td>
     <td>
@@ -44,16 +44,16 @@
     </td>
   </tr>
   <tr>
-    <td><img src="SprintAssets/people/ecenur.jpg" width="70" /></td>
+    <td><img src="SprintAssets/people/ecenur.jpg" width="100" /></td>
     <td>Ecenur Ektaş</td>
     <td>Game Developer</td>
     <td>
-      <a href=""><img src="SprintAssets/social/github.png" width="50"/></a>
-      <a href=""><img src="SprintAssets/social/linkedin.png" width="50"/></a>
+      <a href="https://github.com/ecenurektas"><img src="SprintAssets/social/github.png" width="50"/></a>
+      <a href="https://www.linkedin.com/in/ecenur-ektas/"><img src="SprintAssets/social/linkedin.png" width="50"/></a>
     </td>
   </tr>
   <tr>
-    <td><img src="SprintAssets/people/harun.jpg" width="70" /></td>
+    <td><img src="SprintAssets/people/harun.jpg" width="100" /></td>
     <td>Harun Avaş</td>
     <td>Game Developer</td>
     <td>
@@ -121,4 +121,27 @@ Hayatta kalmak ve özgürlüğe ulaşmak için Arthur’un tehlikelerle dolu bu 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Miro Board'da gözüken pembe item'lar _yazılım_, mor item'lar _ses_, açık yeşil item'lar _görsel efekt_, koyu yeşil item'lar _türü olmayan görevleri_ gösterirken, mavi item'lar _tasarım_ görevlerini temsil etmektedir. Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.: [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/daily-scrum-chats-1-VpkQl6x)
+- **Sprint 1 Board**: Sprint board screenshot: 
+![Backlog 1]()
+
+<details> <summary><h3>Oyun Durumu: Ekran Görüntüleri</h3></summary>
+  
+  ![gif](SprintAssets/gameSS/sprint1.gif)
+  ![Screenshot 2]() 
+  ![Screenshot 3]()
+  ![Screenshot 4]()
+  ![Screenshot 5]()
+
+  </details>
+
+- **Sprint Review**: 
+  - Bütün ekip projede hangi kısımların bittiğini ve bunun hakkındaki görüşlerini iletti. Oyunun güncel tasarımının ve gidişatının beğenildiği belirtildi ve devamı üzerine yeni fikirler ortaya atıldı. Sprint içerisinde tasarlanmış olan level tüm ekip tarafından oynandı, herhangi bir sorun ile karşılaşılmadı.
+  - Sprint Review katılımcıları: İsmail Dönmez, İncila Kırbaç, İbrahim Serhat Aktaş, İpek Nezihe Can, İrfan Şenatlı.
+
+- **Sprint Retrospective:** 
+  - Ekip iki gruba bölündü, bir grup oyunun kalan 4 bölümü üzerinde çalışarak ilerlemeye devam edecek; diğer ekip ise oluşturulan bölümlerin eksiklikleri üzerinde çalışacak ve oyunu final aşamasına hazır hale getirecek.
+    - Grup 1: İsmail, İncila
+    - Grup 2: İbrahim, İpek, İrfan
+  - Toplantıların belirli bir zaman aralığıyla gerçekleştirilmesi kararlaştırıldı.
+  - Üretim aşamasında görev alan ekip üyelerine gelecek bölümlerde ihtiyaç duyulabilecek assetlerin üretimi için listeler hazırlandı
 
