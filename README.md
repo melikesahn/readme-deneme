@@ -106,6 +106,9 @@ Hayatta kalmak ve özgürlüğe ulaşmak için Arthur’un tehlikelerle dolu bu 
 
 [Notion Backlog Board](https://furry-typhoon-ba9.notion.site/21ff217f7c0780c88cffc16a281e1b2a?v=21ff217f7c0780f3b6c7000cf3c73045)
 
+## 📜 Game Design Document (GDD)
+- Projenin tüm tasarım detaylarını, mekaniklerini ve görsel–işitsel öğelerini planladığımız; notlarımızı, fikirlerimizi ve taslaklarımızı bir araya getirdiğimiz dokümandır.
+[Notion Game Design Document](https://furry-typhoon-ba9.notion.site/Game-Design-Document-228f217f7c0780bca292ea4def488071?source=copy_link)
 ---
 
 # 🚀 Sprint 1
