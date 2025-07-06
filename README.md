@@ -57,8 +57,8 @@
     <td>Harun Avaş</td>
     <td>Game Developer</td>
     <td>
-      <a href=""><img src="SprintAssets/social/github.png" width="50"/></a>
-      <a href=""><img src="SprintAssets/social/linkedin.png" width="50"/></a>
+      <a href="https://github.com/harunavas"><img src="SprintAssets/social/github.png" width="50"/></a>
+      <a href="https://www.linkedin.com/in/harun-ava%C5%9F/"><img src="SprintAssets/social/linkedin.png" width="50"/></a>
     </td>
   </tr>
 </table>
