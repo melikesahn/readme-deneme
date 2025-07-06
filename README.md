@@ -104,7 +104,7 @@ Hayatta kalmak ve özgürlüğe ulaşmak için Arthur’un tehlikelerle dolu bu 
 
 ## 📌 Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+[Notion Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
 
 ---
 
