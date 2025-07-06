@@ -158,7 +158,9 @@ Done: Tamamlanmış ve kabul edilmiş görevler.
 - Ses efektleri ve müzik entegrasyonu
 - Basit bir zindan ortamı tasarımı
 - Düşman çeşitliliği (şimdilik sadece bir tip düşman var)
-- Sprint Review katılımcıları: Melike Şahin, Ecenur Ektaş, Kutay Perk, Mirza Özmen, Harun Avaş.
+
+
+Sprint Review katılımcıları: Melike Şahin, Ecenur Ektaş, Kutay Perk, Mirza Özmen, Harun Avaş.
 
 
 ## Sprint **Retrospective :**
