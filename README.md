@@ -126,12 +126,12 @@ Hayatta kalmak ve özgürlüğe ulaşmak için Arthur’un tehlikelerle dolu bu 
 
 <details> <summary><h3>Oyun Durumu: Ekran Görüntüleri</h3></summary>
   
-  ![gif](SprintAssets/gameSS/sprint1.gif)
-  ![Screenshot 2]() 
-  ![Screenshot 3]()
-  ![Screenshot 4]()
-  ![Screenshot 5]()
-
+  <p align="center">
+  <img src="SprintAssets/gameSS/imagekarakter.png" width="300" />
+  <img src="SprintAssets/gameSS/imageiskelet.png" width="300" />
+  <img src="SprintAssets/gameSS/sprint1.gif" width="600" />
+  </p>
+  
   </details>
 
 - **Sprint Review**: 
