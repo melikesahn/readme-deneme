@@ -4,8 +4,6 @@
 
 **One Piece** 
 
-## 🏴 **Takım Logosu**
-
 
 ## 👥 Takım Üyeleri
 
@@ -67,7 +65,7 @@
 
 **FUNGOR**
 
-## 🧩 Oyun Logosu
+
 
 
 
@@ -106,7 +104,7 @@ Hayatta kalmak ve özgürlüğe ulaşmak için Arthur’un tehlikelerle dolu bu 
 
 ## 📌 Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+[Notion Backlog Board](https://furry-typhoon-ba9.notion.site/21ff217f7c0780c88cffc16a281e1b2a?v=21ff217f7c0780f3b6c7000cf3c73045)
 
 ---
 
@@ -118,30 +116,69 @@ Hayatta kalmak ve özgürlüğe ulaşmak için Arthur’un tehlikelerle dolu bu 
 
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 ile başlaması gerektiği kararlaştırıldı.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Miro Board'da gözüken pembe item'lar _yazılım_, mor item'lar _ses_, açık yeşil item'lar _görsel efekt_, koyu yeşil item'lar _türü olmayan görevleri_ gösterirken, mavi item'lar _tasarım_ görevlerini temsil etmektedir. Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır.
+- **Backlog düzeni ve Story seçimleri**: Backlog’umuz, projenin tüm ihtiyaçlarını kapsayacak şekilde Notion’daki Task Tracker board’unda detaylı olarak oluşturulmuştur.Görevler, sprintlerin yapısına uygun olarak aşağıdaki sütunlarda yönetilmektedir:
+Not Started: Henüz başlanmamış, planlanan ve backlog’a eklenen görevler,
+In Progress: Aktif olarak üzerinde çalışılan görevler,
+In Test: Geliştirmesi tamamlanıp test veya review aşamasına alınan görevler,
+Done: Tamamlanmış ve kabul edilmiş görevler.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.: [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/daily-scrum-chats-1-VpkQl6x)
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır : [Sprint 1 - Daily Scrum Meetings](https://imgur.com/a/xYQIZTb)
 - **Sprint 1 Board**: Sprint board screenshot: 
-![Backlog 1]()
+![Backlog 1](SprintAssets/meetingSS/notion.png)
 
 <details> <summary><h3>Oyun Durumu: Ekran Görüntüleri</h3></summary>
   
   <p align="center">
   <img src="SprintAssets/gameSS/imagekarakter.png" width="300" />
   <img src="SprintAssets/gameSS/imageiskelet.png" width="300" />
-  <img src="SprintAssets/gameSS/sprint1.gif" width="600" />
+  <img src="SprintAssets/gameSS/sprint1.gif" width="700" />
+  <img src="SprintAssets/gameSS/karakter.gif" width="700" />
   </p>
   
   </details>
 
-- **Sprint Review**: 
-  - Bütün ekip projede hangi kısımların bittiğini ve bunun hakkındaki görüşlerini iletti. Oyunun güncel tasarımının ve gidişatının beğenildiği belirtildi ve devamı üzerine yeni fikirler ortaya atıldı. Sprint içerisinde tasarlanmış olan level tüm ekip tarafından oynandı, herhangi bir sorun ile karşılaşılmadı.
-  - Sprint Review katılımcıları: İsmail Dönmez, İncila Kırbaç, İbrahim Serhat Aktaş, İpek Nezihe Can, İrfan Şenatlı.
 
-- **Sprint Retrospective:** 
-  - Ekip iki gruba bölündü, bir grup oyunun kalan 4 bölümü üzerinde çalışarak ilerlemeye devam edecek; diğer ekip ise oluşturulan bölümlerin eksiklikleri üzerinde çalışacak ve oyunu final aşamasına hazır hale getirecek.
-    - Grup 1: İsmail, İncila
-    - Grup 2: İbrahim, İpek, İrfan
-  - Toplantıların belirli bir zaman aralığıyla gerçekleştirilmesi kararlaştırıldı.
-  - Üretim aşamasında görev alan ekip üyelerine gelecek bölümlerde ihtiyaç duyulabilecek assetlerin üretimi için listeler hazırlandı
+## Sprint Review :
 
+ 🎯 Sprint Hedefi
+
+- Oyunun ilk prototipini ( hikaye, level design)  oluşturmak ve temel dövüş mekaniğini geliştirmek.
+
+ ✨ Tamamlanan İşler
+
+- Bütün ekip projede hangi kısımların bittiğini ve bunun hakkındaki görüşlerini iletti. Oyunun güncel tasarımının ve gidişatının beğenildiği belirtildi ve devamı    üzerine yeni fikirler ortaya atıldı. Sprint içerisinde tasarlanmış olan level tüm ekip tarafından oynandı, herhangi bir sorun ile karşılaşılmadı.
+- Ana karakter (Arthur) için temel hareket sistemi
+- Düşman AI’larının ilk versiyonu
+- İlk test GIF’lerinin kaydedilmesi
+
+ ⚠️ Tamamlanamayan / Eksik Kalanlar
+
+- Ses efektleri ve müzik entegrasyonu
+- Basit bir zindan ortamı tasarımı
+- Düşman çeşitliliği (şimdilik sadece bir tip düşman var)
+
+
+Sprint Review katılımcıları: Melike Şahin, Ecenur Ektaş, Kutay Perk, Mirza Özmen, Harun Avaş.
+
+
+## Sprint **Retrospective :**
+
+✅ **İyi Gidenler**
+
+- Takım içi iletişim ve günlük sprint toplantıları çok verimliydi
+- Hareket ve dövüş mekaniği hızlıca test edilebilecek seviyeye geldi
+- Notion board ile backlog yönetimi çok düzenli ilerledi
+- Github ile proje üstünde ortak çalışma ortamı oluşturuldu.
+
+🔄 **İyileştirilmesi Gerekenler**
+
+- Asset toplama ve tasarım süreci beklenenden uzun sürdü
+- Kod tarafında branch yönetiminde bazı karışıklıklar yaşandı.
+
+📝**Aksiyon Planı**
+
+- Demo için giriş menüsü ve UI prototipi
+- Oyunun core loopunu oynanabilir hale getirme
+- Düşman çeşitliliği eklenmesi
