@@ -124,7 +124,7 @@ Done: Tamamlanmış ve kabul edilmiş görevler.
 
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.: [Sprint 1 - Daily Scrum Meetings](https://imgur.com/a/xYQIZTb)
+- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır : [Sprint 1 - Daily Scrum Meetings](https://imgur.com/a/xYQIZTb)
 - **Sprint 1 Board**: Sprint board screenshot: 
 ![Backlog 1]()
 
@@ -140,7 +140,7 @@ Done: Tamamlanmış ve kabul edilmiş görevler.
   </details>
 
 
-## Sprint Review:
+## Sprint Review :
 
  🎯 Sprint Hedefi
 
