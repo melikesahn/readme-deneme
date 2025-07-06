@@ -104,7 +104,7 @@ Hayatta kalmak ve özgürlüğe ulaşmak için Arthur’un tehlikelerle dolu bu 
 
 ## 📌 Product Backlog URL
 
-[Notion Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+[Notion Backlog Board](https://furry-typhoon-ba9.notion.site/21ff217f7c0780c88cffc16a281e1b2a?v=21ff217f7c0780f3b6c7000cf3c73045)
 
 ---
 
@@ -126,7 +126,7 @@ Done: Tamamlanmış ve kabul edilmiş görevler.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır : [Sprint 1 - Daily Scrum Meetings](https://imgur.com/a/xYQIZTb)
 - **Sprint 1 Board**: Sprint board screenshot: 
-![Backlog 1]()
+![Backlog 1](SprintAssets/meetingSS/notion.png)
 
 <details> <summary><h3>Oyun Durumu: Ekran Görüntüleri</h3></summary>
   
