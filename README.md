@@ -22,7 +22,7 @@
     <td>Product Owner</td>
     <td>
       <a href="https://github.com/Ktyprk"><img src="SprintAssets/social/github.png" width="50"/></a>
-      <a href="www.linkedin.com/in/kutayperk"><img src="SprintAssets/social/linkedin.png" width="50"/></a>
+      <a href="https://www.linkedin.com/in/kutayperk/"><img src="SprintAssets/social/linkedin.png" width="50"/></a>
     </td>
   </tr>
   <tr>
